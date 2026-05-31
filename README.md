@@ -23,3 +23,5 @@ FoodieGo is a food delivery app prototype designed in Figma. The prototype demon
 
 ## Outcome
 Learned interactive prototyping, navigation flows, animations, and usability testing.
+## figma protoypye link
+https://www.figma.com/design/B50l7sE38yQ28t14HRiWgW/Untitled?node-id=17-39&p=f&t=0mdA3gQ6DATCWrxN-0
